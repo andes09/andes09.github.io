@@ -1,2 +1,6 @@
 # Portfolio
-Coding Project I have done throughout my coding journey
+
+###Projects
+Proj 1
+ - Proj 1
+ - Proj 2
